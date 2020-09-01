@@ -1,5 +1,5 @@
-[![nhcarrigan's github stats](https://github-readme-stats.vercel.app/api?username=nhcarrigan&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhcarrigan&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![gamemonk's github stats](https://github-readme-stats.vercel.app/api?username=keertirajmalik&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keertirajmalik&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
