@@ -3,10 +3,8 @@
 
 <hr>
 
-![followers](https://img.shields.io/github/followers/nhcarrigan?color=purple&logoColor=purple&style=social)
-[![facebook](https://img.shields.io/badge/facebook-Nicholas%20Carrigan-blue)](https://facebook.com/nhcarrigan)
-[![linkedin](https://img.shields.io/badge/LinkedIn-Nicholas%20Carrigan-blue)](https://linkedin.com/in/nhcarrigan)
-[![discord](https://img.shields.io/badge/Discord-nhcarrigan-purple)](https://discord.bio/p/nhcarrigan)
+![followers](https://img.shields.io/github/followers/keertirajmalik?color=purple&logoColor=purple&style=social)
+[![linkedin](https://img.shields.io/badge/LinkedIn-Nicholas%20Carrigan-blue)](https://www.linkedin.com/in/keertiraj-malik-43978a182)
+[![discord](https://img.shields.io/badge/Discord-nhcarrigan-purple)](https://discord.bio/p/gamemonk)
 [![discord server](https://img.shields.io/discord/710307364556767283?color=purple&logo=discord&logoColor=purple)](https://discord.gg/PHqDbkg)
-[![twitter](https://img.shields.io/twitter/follow/nhcarrigan?color=purple&label=Twitter&logoColor=purple&style=social)](https://twitter.com/nhcarrigan)
-[![steam](https://img.shields.io/badge/Steam-nhcarrigan-purple)](https://steamcommunity.com/id/nhcarrigan)
+[![twitter](https://img.shields.io/twitter/follow/nhcarrigan?color=purple&label=Twitter&logoColor=purple&style=social)](https://twitter.com/keertirajmalik)
