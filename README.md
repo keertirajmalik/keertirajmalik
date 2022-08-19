@@ -15,11 +15,11 @@ I am Keertiraj, a passionate and creative developer with a interest in Apple Tec
 
 📫 How to reach me:
 
-- 🤝 Connect with me on [![linkedin](https://img.shields.io/badge/LinkedIn-Keertiraj-blue)](https://www.linkedin.com/in/keertiraj-malik-43978a182)
+- 🤝 Connect with me on [![linkedin](https://img.shields.io/badge/LinkedIn-Keertiraj-blue)](https://www.linkedin.com/in/keertiraj-malik-43978a182) [![twitter](https://img.shields.io/twitter/follow/keertiraj_malik?color=purple&label=Twitter&logoColor=purple&style=social)](https://twitter.com/keertiraj_malik) 
 
 - ✉️ Shoot me an E-mail at [keertirajmalik@icloud.com](mailto:keertirajmalik@icloud.com)
 
-- 🕊 Catch me on  [![twitter](https://img.shields.io/twitter/follow/keertiraj_malik?color=purple&label=Twitter&logoColor=purple&style=social)](https://twitter.com/keertiraj_malik) ![followers](https://img.shields.io/github/followers/keertirajmalik?color=purple&logoColor=purple&style=social)
+- 🕊 Catch me on ![followers](https://img.shields.io/github/followers/keertirajmalik?color=purple&logoColor=purple&style=social)
 [![discord](https://img.shields.io/badge/Discord-GameMonk-purple)](https://discord.bio/p/gamemonk)
 <!-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
