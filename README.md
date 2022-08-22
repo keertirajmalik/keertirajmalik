@@ -11,7 +11,7 @@ I am Keertiraj, a passionate and creative developer with a interest in Apple Tec
 - 🤔 I’m looking for help with ...-->
 - 👯 I’m looking to collaborate on iOS Apps and Swift Libraries.
 
-- 💬 Ask me about Movies, Algorithms, Photography and Science; in that order.
+- 💬 Ask me about Movies, Algorithms and Science; in that order.
 
 📫 How to reach me:
 
