@@ -6,7 +6,7 @@
 
 I am Keertiraj, a passionate and creative developer with a interest in Apple Technologies.
 
-- 🔭 I’m currently working on Swift, iOS and looking towards macOS.
+- 🔭 I’m currently learning Swift, iOS and looking towards macOS.
 <!-- 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...-->
 - 👯 I’m looking to collaborate on iOS Apps and Swift Libraries.
@@ -20,7 +20,6 @@ I am Keertiraj, a passionate and creative developer with a interest in Apple Tec
 - ✉️ Shoot me an E-mail at [keertirajmalik@icloud.com](mailto:keertirajmalik@icloud.com)
 
 - 🕊 Catch me on ![followers](https://img.shields.io/github/followers/keertirajmalik?color=purple&logoColor=purple&style=social)
-[![discord](https://img.shields.io/badge/Discord-GameMonk-purple)](https://discord.bio/p/gamemonk)
 <!-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
