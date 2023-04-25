@@ -6,7 +6,7 @@
 
 I am Keertiraj, a passionate and creative developer with a interest in Apple Technologies.
 
-- 🔭 I’m currently learning Swift, iOS and looking towards macOS.
+- 🔭 I’m currently learning Spring and Java backend development.
 <!-- 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...-->
 - 👯 I’m looking to collaborate on iOS Apps and Swift Libraries.
