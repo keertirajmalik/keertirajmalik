@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Student Management](https://github.com/keertirajmalik/student-management)
 
-- 🌱 I’m currently learning **Spring, React, Rust**
+- 🌱 I’m currently learning **Spring, Quarkus, Go, HTMX**
 
 - 📫 How to reach me **keertirajmalik@icloud.com**
 
